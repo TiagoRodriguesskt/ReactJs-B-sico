@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(213, 237, 238);
+}
+
+h1,
+p {
+  font-family: Lato;
+  text-align: center;
+}
